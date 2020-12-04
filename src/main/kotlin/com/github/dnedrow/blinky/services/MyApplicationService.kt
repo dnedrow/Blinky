@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.dnedrow.blinky.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.dnedrow.blinky.MyBundle
 
 class MyApplicationService {
 
